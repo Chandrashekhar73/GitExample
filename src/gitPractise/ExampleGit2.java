@@ -10,6 +10,8 @@ public class ExampleGit2 {
 	}
 	public void GitEx() {
 		System.out.println("Hey this is git method");
+		System.out.println("I am trying to add code");
+		System.out.println("Pull request");
 	}
 
 }
